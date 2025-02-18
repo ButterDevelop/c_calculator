@@ -1,5 +1,7 @@
 # Arbitrary Precision Integer Calculator
 
+![How it looks like](main.png)
+
 This project is a portable console application written in ANSI C that acts as an interpreter for arithmetic expressions with integers of unlimited size. It is designed to overcome the limitations of standard data types by implementing arbitrary precision arithmetic and working really, really fast.
 
 ## Features
